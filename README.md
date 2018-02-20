@@ -8,7 +8,7 @@ TO-DO:
 - [ ] Large amount of bytes transferred
 - [ ] Never before seen user agent
 - [ ] Never before seen username
-- [ ] Never before seen IP (more applicable for internal to internal comms)
+- [ ] Never before seen IP
 - [ ] Never before seen type of traffic from host
 - [ ] Spike in certain type(s) of traffic
 - [ ] Lack of traffic/activity
